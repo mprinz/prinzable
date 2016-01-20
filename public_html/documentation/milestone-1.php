@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h2>Purpose</h2>
-			<p>Web developer specializing in HTML, CSS, JavaScript, Angular, MySQL and PHP.</p>
+			<p></p>
 		<h2>Audience</h2>
 		<h2>Goal</h2>
 	</body>
