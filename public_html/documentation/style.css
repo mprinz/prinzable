@@ -1,0 +1,17 @@
+/*
+CSS STYLE SHEET
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body {
+	background: #ff0000;
+	font-family: "Montserrat";
+	color: #dcdcdc;
+}
+
+h1 {
+	text-align: right;
+	font-size: 6em;
+	text-shadow: black;
+}

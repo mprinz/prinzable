@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link type="text/css" rel="stylesheet" href="style.css"
 		<title>Michael Prinz - Web Developer</title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+		<link type="text/css" rel="stylesheet" href="style.css">
+
 	</head>
 	<body>
+		<h1>Michael Prinz</h1>
+
 
 		<h2>Purpose</h2>
 
-			<p>This website is intended be the personal web page of Michael Prinz and a demonstration of his web development skills for potential employers.</p>
+			<p>This website is intended be the personal web page of Michael Prinz and a demonstration of his skills for potential employers.</p>
 
 		<h2>Audience</h2>
 
@@ -24,7 +29,7 @@
 
 		<h2>Goal</h2>
 
-			<p>The goal of the website is twofold.  First, it will serve as an ongoing showcase of Michael Prinz' capabilities in the primary languages used in full-stack web development: HTML5, CSS JavaScript, MySql and PHP.
-			Second, the website will be a way for the public to learn about Michael Prinz and some of his experiences and interests.</p>
+			<p>The goal of the website is twofold.  First, it will serve as an ongoing showcase of Michael Prinz' capabilities in the primary languages used in full-stack web development: HTML5, CSS, JavaScript, MySql and PHP.
+			Second, the website will be a way for the public to learn about Michael Prinz and some of his professional experience and personal interests.</p>
 	</body>
 </html>
