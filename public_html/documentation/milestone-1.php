@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Michael Prinz - Web Developer</title>
+		<meta charset="UTF-8"/>
+		<meta http-equiv="x-ua-compatible" content="IE=Edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
 		<link type="text/css" rel="stylesheet" href="style.css">
+		<title>Michael Prinz - Web Developer</title>
 
 	</head>
 	<body>
@@ -21,8 +25,7 @@
 			<p>The audience for this this website will primarily be experienced web and software developers interested in hiring Michael Prinz.</p>
 
 			<h3> Persona</h3>
-					<p>Alison Mead is 43 years old. She lives in Denver, Colorado and runs a web development company.  Her company employs 42 people and business is currently quite good
-					Alison is highly experienced in web development and personally oversees the hiring new developers.</p>
+					<p>Alison Mead is 43 years old. She lives in Denver, Colorado and runs a web development company.  Her company employs 42 people and business is currently quite good.  Alison is highly experienced in web development and personally oversees the hiring new developers.</p>
 			<h3>Use Case</h3>
 					<p>Alison's business is doing well and she believes it could expand and become more profitable but it will be necessary to hire new qualified staff.
 					The new developer should have a solid command of HTLM5, CSS, Angular, MySQL and PHP. The job openings have been posted and Michael Prinz responded by emailing his resume and a link to his website.</p>

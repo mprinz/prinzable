@@ -1,17 +1,18 @@
 /*
-CSS STYLE SHEET
+****Global styles****
 */
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body {
-	background: #ff0000;
+	background: #dcdcdc;
 	font-family: "Montserrat";
-	color: #dcdcdc;
 }
 
+/*
+****specific page styles****
+*/
 h1 {
-	text-align: right;
-	font-size: 6em;
-	text-shadow: black;
+	-moz-text-align-last: center;
+	box-shadow: black;
 }
