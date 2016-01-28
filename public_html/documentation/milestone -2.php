@@ -15,9 +15,11 @@
 		<p>The Welcome page will be the home page and the first page a visitor will see.
 			It will not contain a lot of content and be somewhat minimalist in its appearance.
 			The Welcome page will feature Michael's name in a prominent position and have navigation bar buttons to access
-			the three other pages on the site.</p>
+			the two other pages on the site.</p>
+		<img src="../images/wireframe_1.svg" alt="wireframe_1">
 		<h3>Professional information page</h3>
-		<p>The Professional page will contain Mike's resume.</p>
+		<p>The Professional page will contain Mike's resume and some information about current projects he is working on.</p>
+		<img src="../images/wireframe_2.svg" alt="wireframe_2">
 		<h3>Personal information page</h3>
 		<p>The Personal page will contain some personal information about Mike, including a brief biography and his
 			interests/hobbies.
