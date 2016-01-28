@@ -24,6 +24,7 @@
 		<p>The Personal page will contain some personal information about Mike, including a brief biography and his
 			interests/hobbies.
 			There will be some images of Mike's photos and perhaps a drawing he has done.</p>
+		<img src="../images/wireframe_3.svg" alt="wireframe_3">
 		<h2>Content Strategy</h2>
 		<p>The welcome page will have a pleasing background image but this image will be slightly faded so it does not
 			stand out too much.
