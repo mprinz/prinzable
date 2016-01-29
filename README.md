@@ -32,6 +32,12 @@ There are a few issues with your HTML and CSS
 
 &#10008; Create a mobile and desktop/laptop wireframe for each page layout.
 
-Nice job overall on this Milestone, but I cannot pass this with the wireframes missing. Your sitemap, content strategy, and interaction flow are all good. Consider adding some information regarding web projects that you have built and/or worked on to your Professional Info page.  
+Nice job overall on this Milestone, ~~but I cannot pass this with the wireframes missing.~~ Your sitemap, content strategy, and interaction flow are all good. Consider adding some information regarding web projects that you have built and/or worked on to your Professional Info page.
 
-Please complete the wireframes before beginning development on your PWP, and notify me so I can pass this Milestone. [PWP Evaluation Rubric](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+~~Please complete the wireframes before beginning development on your PWP, and notify me so I can pass this Milestone.~~
+
+Nice job overall. I had a litle bit of a hard time differentiating where one wireframe ended, and another one began, but these are nicely done. The mobile wireframe is missing. There will be some differentiation in your layout on desktop and mobile. This layout will be a breeze in Bootstrap, and if well coded, the mobile layout should be work out-of-the-box, no problem.
+
+For your pictures and artwork, the [Swipebox Gallery plugin](http://brutaldesign.github.io/swipebox/) might be a good option. It works very nicely on mobile.
+
+Your Milestone 2&alpha; passes at [Tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/), due to the missing mobile layout. Add mobile layout wireframes and I'll bump it up to Tier II. You're clear to start development on your PWP.
