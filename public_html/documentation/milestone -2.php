@@ -35,9 +35,12 @@
 			other pages of the website.
 		<h3>Professional page</h3>
 		<p>This page will contain Mike's resume but in a modern style.</p>
-		<<h3>Personal page</h3>
+		<h3>Personal page</h3>
 		<p>This page will feature a photo of Mike, probably a headshot. There will be a brief statment about Mike's
 			personal interests and perhaps an interesting experience or story he can share. This is intented to portray him
 			as an interesting and intelligent person who you would want to hire.</p>
+
+		<h2>Mobile  Wireframes</h2>
+		<img src="../images/wireframe_mobile.svg" alt="Mobile Wireframe">
 	</body>
 </html>
