@@ -87,6 +87,8 @@
 						</div>
 					</div>
 				</div>
+			</header>
+				<main>
 				<div class = "jumbotron">
 					<div class = "container">
 						<h1 class="text-center">Hi, I'm Michael Prinz.</h1>
@@ -110,9 +112,10 @@
 							<div class ="content-box">
 								<h2>Tech Toolbox:</h2>
 								<ul>
-									<li>HTML</li>
-									<li>CSS</li>
+									<li>HTML5</li>
+									<li>CSS3</li>
 									<li>Bootstrap</li>
+									<li>JavaScript</li>
 									<li>PHP</li>
 									<li>MySQL</li>
 								</ul>
@@ -120,10 +123,15 @@
 						</div>
 					</div>
 				</div>
-			</header>
 
 
+			</main>
 		</div>
+		<footer>
+			<div class="container">
+				&copy; 2016 Michael Prinz
+			</div>
+		</footer>
 
 	</body>
 </html>
