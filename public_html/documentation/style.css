@@ -1,18 +1,43 @@
-/*
-****Global styles****
-*/
+/**
+* Style Sheet 1
+*
+**/
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+html {
+	background: (images/IMG_1782.JPG) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.jumbotron {
+	background-color: darkturquoise;
+	color: #ffffff;
+	font-family: Oswald;
+}
 
 body {
-	background: #dcdcdc;
-	font-family: "Montserrat";
+	background-color: lightsteelblue;
+
 }
 
-/*
-****specific page styles****
-*/
-h1 {
-	-moz-text-align-last: center;
-	box-shadow: black;
+.navbar {
+	background-color: khaki;
 }
+
+h2 {
+	color: white;
+}
+
+li {
+	font-family: "Comic Sans MS";
+	color: #ffffff;
+}
+
+.content-box{
+	background-color: lightsalmon;
+	border-radius: 6px;
+	padding: 10px 15px 15px;
+	margin-bottom: 20px
