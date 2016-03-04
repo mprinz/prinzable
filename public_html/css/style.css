@@ -16,10 +16,10 @@ header {
 }
 
 footer {
-	background-color: #000000;
-	color: #cccccc;
+	background-color: darkturquoise;
+	color: #ffffff;
 	font-style: italic;
-	margin-top: 40px;
+	margin-top: 30px;
 	padding: 60px 0;
 }
 

@@ -102,7 +102,7 @@
 								<h2>About Me:</h2>
 								<ul>
 									<li>Born and raised in Albuquerque, I also have lived in California and France.</li>
-									<li>Before becoming a web developer, I was a lawyer and practiced criminal and civil law.</li>
+									<li>I was a lawyer before becoming a web developer and was a prosecutor in Taos, NM.</li>
 									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
 									<li>I enjoy playing guitar, drawing, and photography.</li>
 								</ul>
