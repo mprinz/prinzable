@@ -22,77 +22,27 @@
 		<!--CSS style sheet-->
 		<link type="text/css" rel="stylesheet" href="public_html/css/style.css">
 
+		<!--Animate.css rotateInDownRight-->
+		<link rel="stylesheet" href="animate.min.css">
+
+
 		<title>Michael Prinz</title>
 
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header class="header">
-				<div class="navbar navbar-default navbar-static-top">
-					<div class="container">
-						<div class="navbar-header">
-							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".header-collapse">
-								<span class="sr-only">Toggle navigation</span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
-							<a class="navbar-brand" href="#">Michael Prinz</a>
-						</div>
-
-						<div class="collapse navbar-collapse header-collapse">
-							<ul class="nav navbar-nav">
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="#headings">Headings</a></li>
-										<li><a href="#content-formatting">Content</a></li>
-										<li><a href="#tables">Tables</a></li>
-										<li><a href="#forms">Forms</a></li>
-										<li><a href="#images">Images</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Photos <span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a href="#dropdowns">Dropdowns</a></li>
-										<li><a href="#input-groups">Input Groups</a></li>
-										<li><a href="#navs">Navs</a></li>
-										<li><a href="#navbar">Navbar</a></li>
-										<li><a href="#pagination">Pagination</a></li>
-										<li><a href="#alerts">Alerts</a></li>
-										<li><a href="#labels">Labels</a></li>
-										<li><a href="#progress">Progress</a></li>
-										<li><a href="#media-object">Media Object</a></li>
-										<li><a href="#list-groups">List Groups</a></li>
-										<li><a href="#panels">Panels</a></li>
-										<li><a href="#wells">Wells</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Art <span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li class="dropdown-header">CSS Files</li>
-										<li><a href="../dist/css/bootstrap.css">bootstrap.css</a></li>
-										<li><a href="../dist/css/bootstrap.min.css">bootstrap.min.css</a></li>
-										<li class="divider"></li>
-										<li class="dropdown-header">LESS Files</li>
-										<li><a href="../less/variables.less">variables.less</a></li>
-										<li><a href="../less/theme.less">theme.less</a></li>
-									</ul>
-								</li>
-							</ul>
-
-
-						</div>
-					</div>
-				</div>
 			</header>
 				<main>
 				<div class = "jumbotron">
 					<div class = "container">
-						<h1 class="text-center">Hi, I'm Michael Prinz.</h1>
+						<h1 class= "animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<p class="text-center">I'm a web developer based in Santa Fe, NM.</p>
+						<ul class="nav nav-pills">
+							<li role="presentation" class="active"><a href="#">Contact</a></li>
+							<li role="presentation"><a href="#">Resume</a></li>
+							<li role="presentation"><a href="#">Photos/Art</a></li>
+						</ul>
 					</div>
 				</div>
 				<div class ="container">
@@ -101,14 +51,14 @@
 							<div class = "content-box">
 								<h2>About Me:</h2>
 								<ul>
-									<li>Born and raised in Albuquerque, I also have lived in California and France.</li>
-									<li>I was a lawyer before becoming a web developer and was a prosecutor in Taos, NM.</li>
+									<li>Born and raised in Albuquerque, I also have lived in San Francisco, Paris and Taos.</li>
+									<li>I was a lawyer before becoming a web developer.</li>
 									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
 									<li>I enjoy playing guitar, drawing, and photography.</li>
 								</ul>
 							</div>
 						</div>
-						<div class = "col-md-6">
+						<div class = "col-md-4">
 							<div class ="content-box">
 								<h2>Tech Toolbox:</h2>
 								<ul>
@@ -123,7 +73,49 @@
 						</div>
 					</div>
 				</div>
-
+					<div class="container-fluid">
+				<h2>Contact me:</h2>
+						</div>
+					<form class="form-horizontal well" action="email.php">
+						<div class="form-group">
+							<label for="name">Name</label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-user" aria-hidden="true"></i>
+								</div>
+								<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="email">Email address</label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-envelope" aria-hidden="true"></i>
+								</div>
+								<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="subject">Subject</label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-pencil" aria-hidden="true"></i>
+								</div>
+								<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="message">Message</label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-comment" aria-hidden="true"></i>
+								</div>
+								<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
+							</div>
+						</div>
+						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+					</form>
 
 			</main>
 		</div>

@@ -5,7 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
 html {
-	background: (images/IMG_1782.JPG) no-repeat center center fixed;
+	background-image: url(../images/chaco.JPG) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -23,18 +23,6 @@ footer {
 	padding: 60px 0;
 }
 
-/********************************************
-* Utility Styles
-*
-* These are intended to be re-used
-* for styling purposes
-********************************************/
-.content-box {
-	background-color: #cccccc;
-	border-radius: 6px;
-	padding: 10px 15px 15px;
-	margin-bottom: 20px;
-}
 
 /***
 * Flexbox Sticky Footer
@@ -61,17 +49,18 @@ body { width: 100%;}
 	font-family: Oswald;
 }
 
-body {
-	background-color: lightsteelblue;
 
-}
 
-.navbar {
-	background-color: khaki;
+h1 {
+	text-align: center;
 }
 
 h2 {
 	color: white;
+}
+
+nav {
+	align-items: center;
 }
 
 li {
@@ -80,7 +69,7 @@ li {
 }
 
 .content-box {
-	background-color: lightsalmon;
+	background-color: tomato;
 	border-radius: 6px;
 	padding: 10px 15px 15px;
 	margin-bottom: 20px
@@ -91,3 +80,39 @@ form {
 	height: 75%;
 
 }
+
+.animated {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+
+@-webkit-keyframes slideInLeft {
+	from {
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+		visibility: visible;
+	}
+
+	to {
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+	}
+}
+
+@keyframes slideInLeft {
+	from {
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+		visibility: visible;
+	}
+
+	to {
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+	}
+}
+
+
+
