@@ -31,9 +31,7 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<header class="header">
-			</header>
-				<main>
+			<main>
 				<div class = "jumbotron">
 					<div class = "container">
 						<h1 class= "animated slideInLeft">Hi, I'm Michael Prinz.</h1>

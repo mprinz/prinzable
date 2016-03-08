@@ -1,19 +1,17 @@
 /**
-* Style Sheet 1
+* Style Sheet
 *
 **/
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
 html {
-	background-image: url(../images/chaco.JPG) no-repeat center center fixed;
+	background: url(../images/chaco.JPG) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
-header {
-	margin-top: 20px;
-}
+
 
 footer {
 	background-color: darkturquoise;
@@ -30,7 +28,7 @@ footer {
 ***/
 
 /*corrects IE min-height bug*/
-html { display: flex;}
+
 body { width: 100%;}
 
 .sfooter {
@@ -60,7 +58,7 @@ h2 {
 }
 
 nav {
-	align-items: center;
+	align: center;
 }
 
 li {
