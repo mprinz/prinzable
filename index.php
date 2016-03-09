@@ -36,11 +36,19 @@
 					<div class = "container">
 						<h1 class= "animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<p class="text-center">I'm a web developer based in Santa Fe, NM.</p>
+						<div class="nav-center">
+							<div class="container"
+							<div class="row">
+								<div class="col-md-12">
 						<ul class="nav nav-pills">
-							<li role="presentation" class="active"><a href="#">Contact</a></li>
+							<li role="presentation" class="active"><a href="#myform">Contact</a></li>
 							<li role="presentation"><a href="#">Resume</a></li>
 							<li role="presentation"><a href="#">Photos/Art</a></li>
 						</ul>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 				<div class ="container">
@@ -74,7 +82,7 @@
 					<div class="container-fluid">
 				<h2>Contact me:</h2>
 						</div>
-					<form class="form-horizontal well" action="email.php">
+					<form class="form-horizontal well" action="../php/mailer.php" id="myform">
 						<div class="form-group">
 							<label for="name">Name</label>
 							<div class="input-group">
@@ -116,12 +124,16 @@
 					</form>
 
 			</main>
-		</div>
+
+		</>
 		<footer>
 			<div class="container">
 				&copy; 2016 Michael Prinz
 			</div>
 		</footer>
 
+		</div>
+
 	</body>
+
 </html>

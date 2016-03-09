@@ -1,11 +1,8 @@
-/**
-* Style Sheet
-*
-**/
+
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
 html {
-	background: url(../images/chaco.JPG) no-repeat center center fixed;
+	background: url("../images/texture.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -57,8 +54,12 @@ h2 {
 	color: white;
 }
 
-nav {
-	align: center;
+.nav-center {
+	text-align: center;
+	}
+.nav-center li {
+	float: none;
+	display: inline-block;
 }
 
 li {
