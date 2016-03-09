@@ -52,10 +52,10 @@
 					</div>
 				</div>
 				<div class ="container">
-					<div class ="row">
-						<div class ="col-md-6">
-							<div class = "content-box">
-								<h2>About Me:</h2>
+									<div class ="row">
+										<div class ="col-md-6">
+											<div class = "content-box">
+												<h2>About Me:</h2>
 								<ul>
 									<li>Born and raised in Albuquerque, I also have lived in San Francisco, Paris and Taos.</li>
 									<li>I was a lawyer before becoming a web developer.</li>

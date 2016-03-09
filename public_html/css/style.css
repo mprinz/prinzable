@@ -1,14 +1,14 @@
 
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
-html {
-	background: url("../images/texture.jpg") no-repeat center center fixed;
+/**html {
+	background: url(../images/texture.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
-
+*/
 
 footer {
 	background-color: darkturquoise;
@@ -26,7 +26,7 @@ footer {
 
 /*corrects IE min-height bug*/
 
-body { width: 100%;}
+/**body { width: 100%;}
 
 .sfooter {
 	display: flex;
@@ -37,6 +37,7 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+*/
 
 .jumbotron {
 	background-color: darkturquoise;
@@ -112,6 +113,5 @@ form {
 		transform: translate3d(0, 0, 0);
 	}
 }
-
 
 
