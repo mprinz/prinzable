@@ -12,6 +12,9 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
 				integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
+		<!-- jQuery (required for Bootstap's JS plugins) -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
@@ -19,13 +22,11 @@
 
 		<!--Font awesome-->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
 		<!--CSS style sheet-->
-		<link type="text/css" rel="stylesheet" href="public_html/css/style.css">
+		<link type="text/css" rel="stylesheet" href="css/style.css">
 
-		<!--Animate.css rotateInDownRight-->
-		<link rel="stylesheet" href="animate.min.css">
 		<script src="js/custom.js" rel="text/javascript"></script>
-
 
 		<title>Michael Prinz</title>
 
@@ -83,7 +84,7 @@
 					<div class="container-fluid">
 				<h2>Contact me:</h2>
 						</div>
-					<form class="form-horizontal well" action="php/mailer.php" id="myform">
+					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
 						<div class="form-group">
 							<label for="name">Name</label>
 							<div class="input-group">
