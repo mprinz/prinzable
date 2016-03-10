@@ -82,7 +82,7 @@
 					<div class="container-fluid">
 				<h2>Contact me:</h2>
 						</div>
-					<form class="form-horizontal well" action="public_html/php/mailer.php" id="myform">
+					<form class="form-horizontal well" action="php/mailer.php" id="myform">
 						<div class="form-group">
 							<label for="name">Name</label>
 							<div class="input-group">
