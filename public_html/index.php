@@ -24,6 +24,7 @@
 
 		<!--Animate.css rotateInDownRight-->
 		<link rel="stylesheet" href="animate.min.css">
+		<script src="js/custom.js" rel="text/javascript"></script>
 
 
 		<title>Michael Prinz</title>
