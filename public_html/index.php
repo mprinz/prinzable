@@ -123,10 +123,10 @@
 						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 					</form>
+		<div id="output-area"></div>
 
 			</main>
 
-		</>
 		<footer>
 			<div class="container">
 				&copy; 2016 Michael Prinz

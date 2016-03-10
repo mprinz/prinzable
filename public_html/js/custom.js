@@ -1,9 +1,9 @@
 $(document).ready(function(){
 
 	// jQuery Form Processor
-	$('#contact-form').submit(function(e){
+	$('#myform').submit(function(e){
 		// grab the form. Use the form id
-		var form = $('#contact-form');
+		var form = $('#myform');
 
 		// send form data to mailer.php
 		$.ajax({
@@ -19,7 +19,7 @@ $(document).ready(function(){
 
 				// reset the form if it was successful
 				if($(".alert-success").length >= 1) {
-					$("#contact-form")[0].reset();
+					$("#myform")[0].reset();
 				}
 			}
 		});
