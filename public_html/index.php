@@ -3,6 +3,7 @@
 	<head>
 		<meta http-equiv= "Content-Type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta description=" "
 
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
@@ -87,6 +88,7 @@
 
 					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
 						<div class="form-group">
+							<p><b>Contact Me:</b></p>
 							<label for="name">Name</label>
 							<div class="input-group">
 								<div class="input-group-addon">
@@ -105,15 +107,6 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<label for="subject">Subject</label>
-							<div class="input-group">
-								<div class="input-group-addon">
-									<i class="fa fa-pencil" aria-hidden="true"></i>
-								</div>
-								<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
-							</div>
-						</div>
-						<div class="form-group">
 							<label for="message">Message</label>
 							<div class="input-group">
 								<div class="input-group-addon">
@@ -127,7 +120,7 @@
 					</form>
 								</div>
 							<div class="col-md-6">
-								<img src="images/texture.jpg" alt="photo of roof">
+								<img src="images/headshot.jpg" alt="photo of Michael">
 								</div>
 						</div>
 						</div>
