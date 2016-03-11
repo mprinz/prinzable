@@ -36,15 +36,15 @@
 			<main>
 				<div class = "jumbotron">
 					<div class = "container">
-						<h1 class= "animated slideInLeft">Hi, I'm Michael Prinz.</h1>
+						<h1>Hi, I'm Michael Prinz.</h1>
 						<p class="text-center">I'm a web developer based in Santa Fe, NM.</p>
 						<div class="nav-center">
 							<div class="container"
 							<div class="row">
 								<div class="col-md-12">
 						<ul class="nav nav-pills">
-							<li role="presentation" class="active"><a href="#myform">Contact</a></li>
-							<li role="presentation"><a href="#">Resume</a></li>
+							<li role="presentation"><a href="#myform">Contact</a></li>
+							<li role="presentation"><a href="#links">Links</a></li>
 							<li role="presentation"><a href="#">Photos/Art</a></li>
 						</ul>
 									</div>
@@ -81,9 +81,10 @@
 						</div>
 					</div>
 				</div>
-					<div class="container-fluid">
-				<h2>Contact me:</h2>
-						</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+
 					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
 						<div class="form-group">
 							<label for="name">Name</label>
@@ -124,18 +125,30 @@
 						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 					</form>
+								</div>
+							<div class="col-md-6">
+								<img src="images/texture.jpg" alt="picture of chaco">
+								</div>
+						</div>
+						</div>
 		<div id="output-area"></div>
-
 			</main>
-
 		<footer>
 			<div class="container">
+				<div class="row footerRow">
+					<div class="col-md-4">
+					</div>
+
+					<div class="col-md-4 text-center">
 				&copy; 2016 Michael Prinz
-			</div>
+					</div>
+					<div class="col-md-4 text-right" id="links">
+						<a href="https://twitter.com/mnprinz" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+						<a href="https://www.linkedin.com/in/michael-prinz-58b28233"><i class="fa fa-linkedin fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+						<a href="https://github.com/mprinz"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+					</div>
+				</div>
 		</footer>
-
 		</div>
-
 	</body>
-
 </html>
