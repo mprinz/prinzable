@@ -127,7 +127,7 @@
 					</form>
 								</div>
 							<div class="col-md-6">
-								<img src="images/texture.jpg" alt="picture of chaco">
+								<img src="images/texture.jpg" alt="photo of roof">
 								</div>
 						</div>
 						</div>
