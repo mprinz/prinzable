@@ -63,7 +63,7 @@
 									<li>Born and raised in Albuquerque, I also have lived in San Francisco, Paris and Taos.</li>
 									<li>I was a lawyer before becoming a web developer.</li>
 									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
-									<li>I enjoy playing guitar, drawing, and photography.</li>
+									<li>I'm married and you can see my wife's amazing work  <a href="http://www.archinia.com/"> here.</a></li>
 								</ul>
 							</div>
 						</div>
@@ -74,7 +74,7 @@
 									<li>HTML5</li>
 									<li>CSS3</li>
 									<li>Bootstrap</li>
-									<li>JavaScript</li>
+									<li>JavaScript/Angular</li>
 									<li>PHP</li>
 									<li>MySQL</li>
 								</ul>
