@@ -1,14 +1,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
-/**html {
-	background: url(../images/texture.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-*/
+
 
 footer {
 	background-color: darkturquoise;
@@ -26,7 +19,12 @@ footer {
 
 /*corrects IE min-height bug*/
 
-body { width: 100%;}
+body { width: 100%;
+	background: url(../images/texture.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;}
 
 .sfooter {
 	display: flex;
@@ -68,7 +66,7 @@ li {
 }
 
 .content-box {
-	background-color: tomato;
+	background-color: springgreen;
 	border-radius: 6px;
 	padding: 10px 15px 15px;
 	margin-bottom: 20px
@@ -81,6 +79,6 @@ form {
 }
 
 img {
-	height: 25%;
+	height: 10%;
 	width: 75%;
 }

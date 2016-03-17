@@ -60,24 +60,32 @@
 											<div class = "content-box">
 												<h2>About Me:</h2>
 								<ul>
-									<li>Born and raised in Albuquerque, I also have lived in San Francisco, Paris and Taos.</li>
+									<li>I was born and raised in Albuquerque.</li>
 									<li>I was a lawyer before becoming a web developer.</li>
-									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
-									<li>I'm married and you can see my wife's amazing work  <a href="http://www.archinia.com/"> here.</a></li>
+									<li>I love exploring New Mexico's beautiful landscapes and historic sites and you can see some of my photos here.</li>
+									<li>I'm married and you can check out my wife's amazing work at <a href="http://www.archinia.com/"> www.archinia.com.</a></li>
 								</ul>
 							</div>
 						</div>
-						<div class = "col-md-4">
+						<div class = "col-md-6">
 							<div class ="content-box">
 								<h2>Tech Toolbox:</h2>
-								<ul>
+								<div class="progress">
+									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40"
+										  aria-valuemin="0"
+										  aria-valuemax="100" style="width:40%">
+										MySQL
+									</div>
+
+
+								<!--ul>
 									<li>HTML5</li>
 									<li>CSS3</li>
 									<li>Bootstrap</li>
 									<li>JavaScript/Angular</li>
 									<li>PHP</li>
 									<li>MySQL</li>
-								</ul>
+								</ul-->
 							</div>
 						</div>
 					</div>
@@ -132,10 +140,8 @@
 					<div class="col-md-4">
 					</div>
 
-					<div class="col-md-4 text-center">
-				&copy; 2016 Michael Prinz
-					</div>
-					<div class="col-md-4 text-right" id="links">
+					<div class="col-md-4 text-center" id="links">
+				&copy; 2016 Michael Prinz <br>
 						<a href="https://twitter.com/mnprinz" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
 						<a href="https://www.linkedin.com/in/michael-prinz-58b28233"><i class="fa fa-linkedin fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
 						<a href="https://github.com/mprinz"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
