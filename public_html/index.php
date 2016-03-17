@@ -71,10 +71,10 @@
 							<div class ="content-box">
 								<h2>Tech Toolbox:</h2>
 								<div class="progress">
-									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40"
+									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
 										  aria-valuemax="100" style="width:40%">
-										MySQL
+										HTML5
 									</div>
 
 
