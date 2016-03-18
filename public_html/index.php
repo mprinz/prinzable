@@ -63,7 +63,7 @@
 									<li>Born and raised in Albuquerque.</li>
 									<li>I was a lawyer before becoming a web developer.</li>
 									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
-									<li>I'm married and you can check out my wife's amazing work at <a href="http://www.archinia.com/"> www.archinia.com.</a></li>
+									<li>I'm married and you can check out my wife's amazing work at <a href="http://www.archinia.com/">Archinia.com.</a></li>
 								</ul>
 							</div>
 						</div>
