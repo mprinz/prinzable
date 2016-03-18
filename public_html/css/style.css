@@ -20,11 +20,11 @@ footer {
 /*corrects IE min-height bug*/
 
 body { width: 100%;
-	/*background: url(../images/texture.jpg) no-repeat center center fixed;
+	background: url(../images/hubble_friday.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;*/
+	background-size: cover;
 	}
 
 .sfooter {
