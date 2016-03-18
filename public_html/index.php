@@ -69,23 +69,23 @@
 						</div>
 						<div class = "col-md-6">
 							<div class ="content-box">
-								<h2>Tech Toolbox:</h2>
-								<div class="progress">
+								<h2>My Tech Toolbox:</h2>
+								<!--div class="progress">
 									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
 										  aria-valuemax="100" style="width:40%">
 										HTML5
-									</div>
+									</div-->
 
 
-								<!--ul>
+								<ul>
 									<li>HTML5</li>
 									<li>CSS3</li>
 									<li>Bootstrap</li>
 									<li>JavaScript/Angular</li>
 									<li>PHP</li>
 									<li>MySQL</li>
-								</ul-->
+								</ul>
 							</div>
 						</div>
 					</div>
