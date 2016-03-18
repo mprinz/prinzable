@@ -45,8 +45,8 @@
 								<div class="col-md-12">
 						<ul class="nav nav-pills">
 							<li role="presentation"><a href="#myform">Contact</a></li>
-							<li role="presentation"><a href="#links">Links</a></li>
-							<li role="presentation"><a href="#">Photos/Art</a></li>
+							<li role="presentation"><a href="#mylinks">Links</a></li>
+							<li role="presentation"><a href="#"onClick='alert("Coming Soon!")'>Photos/Art</a></li>
 						</ul>
 									</div>
 								</div>
@@ -60,9 +60,9 @@
 											<div class = "content-box">
 												<h2>About Me:</h2>
 								<ul>
-									<li>I was born and raised in Albuquerque.</li>
+									<li>Born and raised in Albuquerque.</li>
 									<li>I was a lawyer before becoming a web developer.</li>
-									<li>I love exploring New Mexico's beautiful landscapes and historic sites and you can see some of my photos here.</li>
+									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
 									<li>I'm married and you can check out my wife's amazing work at <a href="http://www.archinia.com/"> www.archinia.com.</a></li>
 								</ul>
 							</div>
@@ -132,7 +132,23 @@
 								</div>
 						</div>
 						</div>
+		<br>
 		<div id="output-area"></div>
+		<div class="container" id="mylinks">
+			<div class="row">
+				<div class="col-md-12">
+				<div class = "content-box">
+					<h2>Links to sites that inspire me:</h2>
+					<ul>
+						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>I love exploring this site. This is where I found the background image you see on this page.</li>
+						<li><a href="http://andyshora.com">Andy Shora</a><br>I hope to someday be as skilled as this web developer from London.</li>
+						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space, I can't wait to join and start making!</a></li>
+						<li><a href="http://etantdonnes.com/">Michael Schilling</a><br>Mr. Schilling is a member of Make Santa Fe. I found his webpage there and it has lots of interesting art and links</a></li>
+					</ul>
+				</div>
+				</div>
+				</div>
+			</div>
 			</main>
 		<footer>
 			<div class="container">
@@ -140,7 +156,7 @@
 					<div class="col-md-4">
 					</div>
 
-					<div class="col-md-4 text-center" id="links">
+					<div class="col-md-4 text-center">
 				&copy; 2016 Michael Prinz <br>
 						<a href="https://twitter.com/mnprinz" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
 						<a href="https://www.linkedin.com/in/michael-prinz-58b28233"><i class="fa fa-linkedin fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
