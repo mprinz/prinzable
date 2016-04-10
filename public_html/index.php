@@ -128,7 +128,7 @@
 					</form>
 								</div>
 							<div class="col-md-6">
-								<img src="images/headshot.jpg" alt="photo of Michael">
+								<img src="images/mike.png" alt="photo of Michael">
 								</div>
 						</div>
 						</div>
@@ -138,7 +138,7 @@
 			<div class="row">
 				<div class="col-md-12">
 				<div class = "content-box">
-					<h2>Links to sites that inspire me:</h2>
+					<h2>Links to interesting/inspiring sites:</h2>
 					<ul>
 						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>I love exploring this site. This is where I found the background image you see on this page.</li>
 						<li><a href="http://andyshora.com">Andy Shora</a><br>I hope to someday be as skilled as this web developer from London.</li>
@@ -161,6 +161,7 @@
 						<a href="https://twitter.com/mnprinz" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
 						<a href="https://www.linkedin.com/in/michael-prinz-58b28233"><i class="fa fa-linkedin fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
 						<a href="https://github.com/mprinz"><i class="fa fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+						<a href="https://instagram.com/mnprinz"><i class="fa fa-instagram fa-lg"></i></a>
 					</div>
 				</div>
 		</footer>
