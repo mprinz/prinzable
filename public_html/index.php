@@ -26,6 +26,7 @@
 
 		<!--CSS style sheet-->
 		<link type="text/css" rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="animate.min.css">
 
 		<script src="js/custom.js" rel="text/javascript"></script>
 		<script src="js/script.js" rel="text/javascript"></script>
