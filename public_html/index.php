@@ -38,7 +38,7 @@
 				<div class = "jumbotron">
 					<div class = "container">
 						<h1>Hi, I'm Michael Prinz.</h1>
-						<p class="text-center">I'm a web developer based in Santa Fe, NM.</p>
+						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
 						<div class="nav-center">
 							<div class="container"
 							<div class="row">
@@ -59,40 +59,22 @@
 										<div class ="col-md-6">
 											<div class = "content-box">
 												<h2>About Me:</h2>
-								<ul>
-									<li>Born and raised in Albuquerque.</li>
-									<li>I was a lawyer before becoming a web developer.</li>
-									<li>I love exploring New Mexico's beautiful landscapes and historic sites.</li>
-									<li>I'm married and you can check out my wife's amazing work at <a href="http://www.archinia.com/">Archinia.com.</a></li>
-								</ul>
+								<p>I'm Michael Prinz, full stack web developer. I can make your web page look great!</p>
 							</div>
 						</div>
 						<div class = "col-md-6">
 							<div class ="content-box">
-								<h2>My Tech Toolbox:</h2>
-								<!--div class="progress">
+								<h2>My Skills:</h2>
+								<div class="progress">
 									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
 										  aria-valuemax="100" style="width:40%">
 										HTML5
-									</div-->
-
-
-								<ul>
-									<li>HTML5</li>
-									<li>CSS3</li>
-									<li>Bootstrap</li>
-									<li>JavaScript/Angular</li>
-									<li>PHP</li>
-									<li>MySQL</li>
-								</ul>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
-					<div class="container">
-						<div class="row">
-							<div class="col-md-6">
 
 					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
 						<div class="form-group">
