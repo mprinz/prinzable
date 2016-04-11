@@ -28,7 +28,7 @@
 		<link type="text/css" rel="stylesheet" href="css/style.css">
 
 		<script src="js/custom.js" rel="text/javascript"></script>
-
+		<script src="js/script.js" rel="text/javascript"></script>
 		<title>Michael Prinz</title>
 
 	</head>
@@ -36,8 +36,9 @@
 		<div class="sfooter-content">
 			<main>
 				<div class = "jumbotron">
+					<div class = "bg"></div>
 					<div class = "container">
-						<h1>Hi, I'm Michael Prinz.</h1>
+						<h1>Hi, I'm <div id="test">Michael Prinz.</h1></div>
 						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
 						<div class="nav-center">
 							<div class="container"
@@ -56,20 +57,60 @@
 				</div>
 				<div class ="container">
 									<div class ="row">
-										<div class ="col-md-6">
+										<div class ="col-md-2"></div>
+										<div class ="col-md-8">
 											<div class = "content-box">
 												<h2>About Me:</h2>
-								<p>I'm Michael Prinz, full stack web developer. I can make your web page look great!</p>
+												<img src="images/mike.png" alt="photo of Michael">
+								<p>I'm Michael Prinz, full stack web developer. After a successful career as a lawyer, I took the plunge into web development.
+								I attended the Deep Dive Coding Boot Camp at the CNM Stemulus Center and was immersed in the languages that drive the internet. When I'm not coding I can be found playing guitar, hiking or looking for fossils in the nearby Sangre de Cristo mountains.</p>
 							</div>
 						</div>
+										</div>
+										<div class="row">
 						<div class = "col-md-6">
 							<div class ="content-box">
 								<h2>My Skills:</h2>
 								<div class="progress">
+									<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70"
+										  aria-valuemin="0"
+										  aria-valuemax="100" style="width:40%">
+										HTML
+									</div>
+								</div>
+								<div class="progress">
 									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
 										  aria-valuemax="100" style="width:40%">
-										HTML5
+										CSS
+									</div>
+								</div>
+								<div class="progress">
+									<div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="70"
+										  aria-valuemin="0"
+										  aria-valuemax="100" style="width:30%">
+										JavaScript
+									</div>
+								</div>
+								<div class="progress">
+									<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="70"
+										  aria-valuemin="0"
+										  aria-valuemax="100" style="width:30%">
+										Angular
+									</div>
+								</div>
+								<div class="progress">
+									<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70"
+										  aria-valuemin="0"
+										  aria-valuemax="100" style="width:25%">
+										PHP
+									</div>
+								</div>
+								<div class="progress">
+									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
+										  aria-valuemin="0"
+										  aria-valuemax="100" style="width:25%">
+										MySQL
 									</div>
 								</div>
 							</div>
@@ -109,11 +150,6 @@
 						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 					</form>
 								</div>
-							<div class="col-md-6">
-								<img src="images/mike.png" alt="photo of Michael">
-								</div>
-						</div>
-						</div>
 		<br>
 		<div id="output-area"></div>
 		<div class="container" id="mylinks">
@@ -123,9 +159,10 @@
 					<h2>Links to interesting/inspiring sites:</h2>
 					<ul>
 						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>I love exploring this site. This is where I found the background image you see on this page.</li>
-						<li><a href="http://andyshora.com">Andy Shora</a><br>I hope to someday be as skilled as this web developer from London.</li>
+						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>I hope to someday be as skilled as this web developer from Vancouver.</li>
 						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space, I can't wait to join and start making!</a></li>
-						<li><a href="http://etantdonnes.com/">Michael Schilling</a><br>Mr. Schilling is a member of Make Santa Fe. I found his webpage there and it has lots of interesting art and links</a></li>
+						<li><a href="https://meowwolf.com/">Meow Wolf</a><br>An amazing immersive experience in Santa Fe, you have to experience it to truly understand.<a></li>
+						<li><a href="http://josephpayton.com/about/">Joseph Payton</a><br>Another site by an amazing web developer.</li>
 					</ul>
 				</div>
 				</div>
