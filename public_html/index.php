@@ -26,7 +26,7 @@
 
 		<!--CSS style sheet-->
 		<link type="text/css" rel="stylesheet" href="css/style.css">
-		<link rel="stylesheet" href="animate.min.css">
+		<link rel="stylesheet" href="css/animate.min.css">
 
 		<script src="js/custom.js" rel="text/javascript"></script>
 		<script src="js/script.js" rel="text/javascript"></script>
@@ -39,7 +39,7 @@
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
-						<h1>Hi, I'm <div id="test">Michael Prinz.</h1></div>
+						<h1 class="animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
 						<div class="nav-center">
 							<div class="container"
@@ -64,7 +64,7 @@
 												<h2>About Me:</h2>
 												<img src="images/mike.png" alt="photo of Michael">
 								<p>I'm Michael Prinz, full stack web developer. After a successful career as a lawyer, I took the plunge into web development.
-								I attended the Deep Dive Coding Boot Camp at the CNM Stemulus Center and was immersed in the languages that drive the internet. When I'm not coding I can be found playing guitar, hiking or looking for fossils in the nearby Sangre de Cristo mountains.</p>
+								I attended the Deep Dive Coding Boot Camp at the CNM Stemulus Center and was immersed in the languages that drive the internet. When I'm not coding I can be found playing guitar, taking photos, or rock hunting in the nearby mountains.</p>
 							</div>
 						</div>
 										</div>
