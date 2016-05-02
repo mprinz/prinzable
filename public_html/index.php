@@ -46,7 +46,7 @@
 							<div class="row">
 								<div class="col-md-12">
 						<ul class="nav nav-pills">
-							<li role="presentation"><a href="#myform" onclick="popup()">Contact</a></li>
+							<li role="presentation"><a href="#myform" onClick="popup()">Contact</a></li>
 							<li role="presentation"><a href="#mylinks">Links</a></li>
 							<li role="presentation"><a href="#"onClick='alert("Coming Soon!")'>Photos/Art</a></li>
 						</ul>
@@ -89,7 +89,7 @@
 								<div class="progress">
 									<div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
-										  aria-valuemax="100" style="width:30%">
+										  aria-valuemax="100" style="width:35%">
 										JavaScript
 									</div>
 								</div>
@@ -103,14 +103,14 @@
 								<div class="progress">
 									<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
-										  aria-valuemax="100" style="width:25%">
+										  aria-valuemax="100" style="width:30%">
 										PHP
 									</div>
 								</div>
 								<div class="progress">
 									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
-										  aria-valuemax="100" style="width:25%">
+										  aria-valuemax="100" style="width:30%">
 										MySQL
 									</div>
 								</div>
@@ -120,7 +120,7 @@
 
 					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
 						<div class="form-group">
-							<p><b>Contact Me:</b></p>
+							<h3><b>Contact Me:</b></h3>
 							<label for="name">Name</label>
 							<div class="input-group">
 								<div class="input-group-addon">
@@ -162,7 +162,7 @@
 						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>I love exploring this site. This is where I found the background image you see on this page.</li>
 						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>I hope to someday be as skilled as this web developer from Vancouver.</li>
 						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space, I can't wait to join and start making!</a></li>
-						<li><a href="https://meowwolf.com/">Meow Wolf</a><br>An amazing immersive experience in Santa Fe, you have to experience it to truly understand.<a></li>
+						<li><a href="https://meowwolf.com/">Meow Wolf</a><br>An amazing immersive experience in Santa Fe. You have to experience it to truly understand.<a></li>
 						<li><a href="http://josephpayton.com/about/">Joseph Payton</a><br>Another site by an amazing web developer.</li>
 					</ul>
 				</div>
