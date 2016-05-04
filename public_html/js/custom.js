@@ -27,3 +27,13 @@ $(document).ready(function(){
 	});// end jQuery Form Processor
 
 });/*end document.ready()*/
+
+/* document.getElementById("form").addEventListener("submit", function(e) {
+ e.preventDefault();
+ var msg = e.currentTarget.getElementById("msg").value.trim();
+ if (msg) {
+ alert(msg);
+ }
+ }, false);
+
+
