@@ -36,7 +36,15 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<main>
-				<nav class="navbar navbar-default"></nav>
+				<nav class="navbar navbar-default">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<a class="navbar-brand" href="#">
+								<img alt="Brand" src="images/new-mexico-flag-small.png">
+							</a>
+						</div>
+					</div>
+				</nav>
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
@@ -76,7 +84,7 @@
 								<div class="progress">
 									<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
-										  aria-valuemax="100" style="width:40%">
+										  aria-valuemax="100" style="width:50%">
 										HTML
 									</div>
 								</div>
