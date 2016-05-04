@@ -36,6 +36,7 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<main>
+				<nav class="navbar navbar-default"></nav>
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
