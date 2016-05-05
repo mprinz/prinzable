@@ -43,6 +43,7 @@
 								<img alt="Brand" src="images/new-mexico-flag-small.png">
 							</a>
 						</div>
+
 					</div>
 				</nav>
 				<div class = "jumbotron">
@@ -54,6 +55,7 @@
 							<div class="container"
 							<div class="row">
 								<div class="col-md-12">
+									<button type="button" class="btn btn-default navbar-btn">Sign in</button>
 						<ul class="nav nav-pills">
 							<li role="presentation"><a href="#myform" onClick="popup()">Contact</a></li>
 							<li role="presentation"><a href="#mylinks">Links</a></li>
