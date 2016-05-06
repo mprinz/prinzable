@@ -40,7 +40,7 @@
 					<div class="container-fluid">
 						<div class="navbar-header">
 							<a class="navbar-brand" href="#">
-								<img alt="Brand" src="images/new-mexico-flag-small.png">
+
 							</a>
 						</div>
 
@@ -51,6 +51,7 @@
 					<div class = "container">
 						<h1 class="animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
+						<img alt="Brand" src="images/new-mexico-flag-small.png">
 						<div class="nav-center">
 							<div class="container"
 							<div class="row">
