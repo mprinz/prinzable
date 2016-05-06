@@ -63,13 +63,6 @@ p {
 	font-size: 125%;
 }
 
-.nav-center {
-	text-align: center;
-	}
-.nav-center li {
-	float: none;
-	display: inline-block;
-}
 
 li {
 	font-family: "Comic Sans MS";
@@ -89,7 +82,3 @@ form {
 
 }
 
-img {
-	height: 100px;
-	width: auto;
-}
