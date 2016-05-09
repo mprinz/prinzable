@@ -31,44 +31,13 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<header>
-				<div class="container">
-					<!-- begin bootstrap navbar -->
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<i class="fa fa-th fa-2x fa-spin" aria-hidden="true"></i>
-						</button>
-						<a class="navbar-brand" href="#">Bootstrap Sample</a>
-					</div>
-
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="main-menu">
-						<ul class="nav navbar-nav navbar-right">
-							<li><a href="/">Home</a></li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="http://google.com">Google.com</a></li>
-									<li><a href="https://senator-arlo.bowtied.io">Feel The Fuzzy</a></li>
-									<li><a href="https://reddit.com/r/softwaregore">REddit</a></li>
-								</ul>
-							</li>
-						</ul>
-					</div><!-- /.navbar-collapse -->
-				</div>
-			</header>
-
-			</header>
-
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
 						<h1 class="animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
 
-						<!--div class="nav-center">
+						<div class="nav-center">
 							<div class="container"
 							<div class="row">
 								<div class="col-md-12">
@@ -80,7 +49,7 @@
 						</ul>
 									</div>
 								</div>
-							</div-->
+							</div>
 						</div>
 					</div>
 				</div>
