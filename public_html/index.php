@@ -68,19 +68,19 @@
 						<h1 class="animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
 
-						<div class="nav-center">
+						<!--div class="nav-center">
 							<div class="container"
 							<div class="row">
 								<div class="col-md-12">
-									<button type="button" class="btn btn-default navbar-btn">Sign in</button>
+									<button type="button" class="btn btn-primary btn-lrg">Sign in</button>
 						<ul class="nav nav-pills">
-							<li role="presentation"><a href="#myform" onClick="popup()">Contact</a></li>
+							<li class= "btn btn-primary btn-lg" role="presentation"><a href="#myform" onClick="popup()">Contact</a></li>
 							<li role="presentation"><a href="#mylinks">Links</a></li>
 							<li role="presentation"><a href="#"onClick='alert("Coming Soon!")'>Photos/Art</a></li>
 						</ul>
 									</div>
 								</div>
-							</div>
+							</div-->
 						</div>
 					</div>
 				</div>
