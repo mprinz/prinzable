@@ -42,7 +42,7 @@
 							<div class="row">
 								<div class="col-md-12">
 						<ul class="nav nav-pills">
-							<li class= "btn btn-primary btn-md" role="presentation"><a href="#myform" onClick="popup()">Contact</a></li>
+							<li role="presentation"><a href="#myform" onClick="popup()">Contact</a></li>
 							<li role="presentation"><a href="#mylinks">Links</a></li>
 							<li role="presentation"><a href="#"onClick='alert("Coming Soon!")'>Photos/Art</a></li>
 						</ul>

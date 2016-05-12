@@ -65,7 +65,14 @@ p {
 
 li {
 	font-family: "Comic Sans MS";
-	color: yellow
+	color: yellow;
+}
+
+.nav-center {
+	text-align: center;
+}
+ul.nav {
+	display: inline-block;
 }
 
 .content-box {
