@@ -31,12 +31,22 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
+			<nav class="navbar navbar-center">
+				<div class="container-fluid">
+
+					<div class="navbar-header">
+
+					</div>
+				</div>
+			</nav>
+
+
+
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
 						<h1 class="animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
-
 						<div class="nav-center">
 							<div class="container"
 							<div class="row">
@@ -58,11 +68,11 @@
 										<div class ="col-md-8">
 											<div class = "content-box">
 												<h2>About Me:</h2>
-												<img src="images/mike.png" alt="photo of Michael">
 								<p>I'm Michael Prinz, full stack web developer. After a successful career as a lawyer, I took the plunge into web development.
 								I attended the Deep Dive Coding Boot Camp at the CNM Stemulus Center and was immersed in the languages that drive the internet. When I'm not coding I can be found playing guitar, taking photos, or rock hunting in the nearby mountains.</p>
-							</div>
-						</div>
+												<img src="images/mike.png" alt="photo of Michael">
+												</div>
+											</div>
 										</div>
 										<div class="row">
 						<div class = "col-md-6">
