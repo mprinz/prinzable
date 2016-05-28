@@ -31,12 +31,33 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<nav class="navbar navbar-center">
-				<div class="container-fluid">
-
+			<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+				<div class="container">
 					<div class="navbar-header">
-
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">Michael Prinz</a>
 					</div>
+					<ul class="nav navbar-nav navbar-right" id="navigation">
+						<li class="nav-item active">
+							<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+						</li>
+						<li class="nav-item">
+							<a href="#myform">Contact</a>
+						</li>
+						<li class="nav-item">
+							<a href="#mylinks">Links</a>
+						</li>
+						<li class="nav-item">
+							<a href="#" onClick='alert("Coming Soon!")'>Photos/Art</a>
+						</li>
+					</ul>
+
+				</div>
 				</div>
 			</nav>
 
@@ -47,21 +68,9 @@
 					<div class = "container">
 						<h1 class="animated slideInLeft">Hi, I'm Michael Prinz.</h1>
 						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
-						<div class="nav-center">
-							<div class="container"
-							<div class="row">
-								<div class="col-md-12">
-						<ul class="nav nav-pills">
-							<li role="presentation"><a href="#myform" onClick="popup()">Contact</a></li>
-							<li role="presentation"><a href="#mylinks">Links</a></li>
-							<li role="presentation"><a href="#"onClick='alert("Coming Soon!")'>Photos/Art</a></li>
-						</ul>
-									</div>
-								</div>
-							</div>
-						</div>
 					</div>
 				</div>
+
 				<div class ="container">
 									<div class ="row">
 										<div class ="col-md-2"></div>

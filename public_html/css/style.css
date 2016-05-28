@@ -37,12 +37,16 @@ body { width: 100%;
 	flex: 1 0 auto;
 }
 
+
 .jumbotron {
 	background-color: darkturquoise;
 	color: #ffffff;
 	font-family: Oswald;
 }
 
+ul#navigation{
+
+}
 
 
 h1 {
