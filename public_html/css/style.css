@@ -39,20 +39,11 @@ body { width: 100%;
 
 
 .jumbotron {
-	background: whitesmoke;
+	background: transparent;
 	color: #d3d3d3;
 	font-family: Oswald;
-	height: 500px;
+	height: 400px;
 }
-
-.navbar.navbar-inverse{
-	background: rgba(0,0,0,0.4)
-}
-
-ul#navigation{
-
-}
-
 
 h1 {
 	text-align: center;
