@@ -39,8 +39,8 @@ body { width: 100%;
 
 
 .jumbotron {
-	background: transparent;
-	color: #000000;
+	background: whitesmoke;
+	color: #d3d3d3;
 	font-family: Oswald;
 	height: 500px;
 }
@@ -72,17 +72,22 @@ p {
 	font-size: 125%;
 }
 
-li {
-	font-family: "Comic Sans MS";
-	color: yellow;
+.nav ul {
+	list-style: none;
+	background-color: #444;
+	text-align: center;
+	padding: 0;
+	margin: 0;
 }
 
-.nav-center {
-	text-align: center;
-}
-ul.nav {
-	display: inline-block;
-}
+.nav li {
+
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.2em;
+	line-height: 40px;
+	height: 40px;
+	}
+
 
 .content-box {
 	border-radius: 6px;

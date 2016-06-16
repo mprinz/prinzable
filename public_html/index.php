@@ -74,18 +74,17 @@
 					<div class = "container">
 						<h1 class="animated slideInLeft">MICHAEL PRINZ</h1>
 						<h2 class="text-center">Web Developer | Santa Fe</h2>
-						<br></br>
-						<nav class="navbar nav-center">
-						<ul class="nav nav-pills">
-								<li role="presentation" class="active"><a href="#">Home</a></li>
-								<li role="presentation"><a href="#">Profile</a></li>
-								<li role="presentation"><a href="#">Messages</a></li>
-							</ul
-
-						</nav>
 					</div>
 				</div>
 
+			<nav class="navbar nav-center">
+				<ul class="nav nav-pills">
+					<li role="presentation" class="inactive"><a href="#">Home</a></li>
+					<li role="presentation"><a href="#">Profile</a></li>
+					<li role="presentation"><a href="#">Messages</a></li>
+				</ul
+
+			</nav>
 
 			<div class ="container">
 				<div class ="row">
