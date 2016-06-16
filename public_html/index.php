@@ -24,6 +24,9 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
+		<!-------Favicon------>
+		<link rel="shortcut icon" href="/images/favicon.ico" />
+
 		<script src="js/custom.js" rel="text/javascript"></script>
 		<script src="js/script.js" rel="text/javascript"></script>
 		<title>Michael Prinz</title>
@@ -71,8 +74,29 @@
 					<div class = "container">
 						<h1 class="animated slideInLeft">MICHAEL PRINZ</h1>
 						<h2 class="text-center">Web Developer | Santa Fe</h2>
+						<br></br>
+						<nav class="navbar nav-center">
+						<ul class="nav nav-pills">
+								<li role="presentation" class="active"><a href="#">Home</a></li>
+								<li role="presentation"><a href="#">Profile</a></li>
+								<li role="presentation"><a href="#">Messages</a></li>
+							</ul
+
+						</nav>
 					</div>
 				</div>
+
+
+			<div class ="container">
+				<div class ="row">
+					<div class="col-md-4">.col-md-4</div>
+					<div class="col-md-4">.col-md-4</div>
+					<div class="col-md-4">.col-md-4</div>
+						<h2>About Me:</h2>
+							</>
+					</div>
+				</div>
+
 
 				<div class ="container">
 									<div class ="row">
