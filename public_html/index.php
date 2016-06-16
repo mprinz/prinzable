@@ -43,7 +43,7 @@
 						<a class="navbar-brand" href="#">Michael Prinz</a>
 					</div>
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li class="nav-item active">
+						<li class="nav-item">
 							<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item">
