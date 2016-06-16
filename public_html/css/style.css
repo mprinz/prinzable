@@ -39,8 +39,8 @@ body { width: 100%;
 
 
 .jumbotron {
-	background-color: darkturquoise;
-	color: #ffffff;
+	background: transparent;
+	color: #000000;
 	font-family: Oswald;
 }
 
@@ -58,7 +58,7 @@ h1 {
 }
 
 h2 {
-	color: yellow;
+	color: #d3d3d3;
 	font-family: Georgia;
 }
 

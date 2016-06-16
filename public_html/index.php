@@ -31,7 +31,7 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+			<!--nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 				<div class="container">
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -59,7 +59,10 @@
 
 				</div>
 				</div>
-			</nav>
+			</nav-->
+			<!--div class ="container">
+				<div class ="row">
+					<div class ="col-md-12" style="background: transparent" height="131px"></div-->
 
 
 
@@ -111,21 +114,21 @@
 									<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
 										  aria-valuemax="100" style="width:30%">
-										Angular
+										PHP
 									</div>
 								</div>
 								<div class="progress">
 									<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
 										  aria-valuemax="100" style="width:30%">
-										PHP
+										MySQL
 									</div>
 								</div>
 								<div class="progress">
 									<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"
 										  aria-valuemin="0"
 										  aria-valuemax="100" style="width:30%">
-										MySQL
+										Angular
 									</div>
 								</div>
 							</div>
