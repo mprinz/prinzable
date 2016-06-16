@@ -69,8 +69,8 @@
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
-						<h1 class="animated slideInLeft">Hi, I'm Michael Prinz.</h1>
-						<h2 class="text-center">Web developer based in Santa Fe, NM.</h2>
+						<h1 class="animated slideInLeft">MICHAEL PRINZ</h1>
+						<h2 class="text-center">Web Developer | Santa Fe</h2>
 					</div>
 				</div>
 

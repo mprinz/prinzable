@@ -42,6 +42,7 @@ body { width: 100%;
 	background: transparent;
 	color: #000000;
 	font-family: Oswald;
+	height: 500px;
 }
 
 .navbar.navbar-inverse{
