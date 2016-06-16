@@ -79,7 +79,6 @@
 												<h2>About Me:</h2>
 								<p>I'm Michael Prinz, full stack web developer. After a successful career as a lawyer, I took the plunge into web development.
 								I attended the Deep Dive Coding Boot Camp at the CNM Stemulus Center and was immersed in the languages that drive the internet. When I'm not coding I can be found playing guitar, taking photos, or rock hunting in the nearby mountains.</p>
-												<img src="images/mike.png" alt="photo of Michael">
 												</div>
 											</div>
 										</div>

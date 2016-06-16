@@ -20,7 +20,7 @@ footer {
 /*corrects IE min-height bug*/
 
 body { width: 100%;
-	background: url(../im.jpg) no-repeat center center fixed;
+	background: url(../images/canyon.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
