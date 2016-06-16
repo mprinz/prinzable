@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-	<link type="text/html" rel="head" href="php/head.html">
+	<link href="head.php">
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
