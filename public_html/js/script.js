@@ -1,4 +1,5 @@
-document.addEventListener()
 
-
+{
+	alert("Hello there, stranger!");
+}
 

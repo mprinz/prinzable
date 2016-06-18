@@ -1,5 +1,5 @@
 
-<head>
+
 	<meta http-equiv= "Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta description=" "
@@ -30,4 +30,3 @@
 	<script src="js/script.js" rel="text/javascript"></script>
 	<title>Michael Prinz</title>
 
-</head>
