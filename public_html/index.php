@@ -49,13 +49,13 @@
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
-						<h1 class="animated slideInLeft">MICHAEL PRINZ</h1>
+						<h1 class="animated slideInLeft">MICHAEL N. PRINZ</h1>
 						<h2 class="text-center">Web Developer | Santa Fe</h2>
 					</div>
 				</div>
 			<nav class="navbar nav-center">
-				<ul class="nav nav-pills">
-					<li role="presentation" class="inactive"><a href="#">Home</a></li>
+				<ul class="nav nav-pills nav-pills-lg">
+					<li role="presentation"><a href="#">Home</a></li>
 					<li role="presentation"><a href="#">Profile</a></li>
 					<li role="presentation"><a href="#">Messages</a></li>
 				</ul

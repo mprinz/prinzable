@@ -62,8 +62,12 @@ p {
 	color: white;
 	font-size: 125%;
 }
+div {
+	/*display: inline-block;
+}*/
 .nav {
-	display: inline-block;
+
+	display: inline-blockblock;
 	text-align: center;
 	width:750px;
 	margin:0 auto;
@@ -72,6 +76,7 @@ p {
 }
 
 .nav ul {
+	display: inline-block;
 	list-style: none;
 	background-color: #444;
 	text-align: center;
