@@ -56,14 +56,13 @@
 									<div class="row">
 										<div class ="col-md-12">
 											<div class="content-box animated slideInLeft"">
-												<h2>About:</h2>
-								<p>I'm Michael Prinz, full stack web developer. After a successful career as a lawyer, I took the plunge into web development.
-								I attended the Deep Dive Coding Boot Camp at the CNM Stemulus Center and was immersed in the languages that drive the internet. When I'm not coding I can be found playing guitar, taking photos, or rock hunting in the nearby mountains.</p>
+												<h2>Welcome!</h2>
+								<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
 												</div>
 										</div>
 											</div>
 										</div>
-		<div class="parallax-window" data-parallax="scroll" data-image-src="/images/new-mexico-flag-small.png">
+		<div class="parallax-window" data-parallax="scroll" data-image-src="/images/hubble_friday.jpg"></div>
 
 										<div class="row">
 						<div class = "col-md-6">
@@ -114,7 +113,7 @@
 							</div>
 						</div>
 					</div>
-			</div>
+
 
 					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
 						<div class="form-group">

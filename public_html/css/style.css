@@ -55,7 +55,7 @@ h1 {
 }
 
 h2 {
-	color: #d3d3d3;
+	color: #000000;
 	font-family: Georgia;
 }
 
@@ -64,7 +64,7 @@ h3 {
 }
 
 p {
-	color: white;
+
 	font-size: 125%;
 }
 .parallax-window {
@@ -101,10 +101,10 @@ nav {
 
 
 .content-box {
-
+	color: orangered;
 	padding: 10px 15px 15px;
 	margin-bottom: 20px;
-	background-color: #454343;
+
 }
 
 form {
