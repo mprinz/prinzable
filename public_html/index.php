@@ -38,8 +38,14 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<nav class="nav navbar-fixed">
-				<div class="navbar-header">
+			<nav class="navbar navbar-default navbar-fixed-top">
+				<div class="container">
+					<div class="topheader">
+						<div class="navbar-header">
+							
+						</div>
+					</div>
+
 
 				</div>
 
