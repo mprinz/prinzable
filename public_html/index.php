@@ -19,9 +19,10 @@
 		<link type="text/css" rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/animate.min.css">
 
-		<!-- jQuery -->
+		<!-- jQuery and Parallax-->
 		<script src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
-
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/parallax.min.js"></script>
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
@@ -30,52 +31,40 @@
 
 		<script src="js/custom.js" rel="text/javascript"></script>
 		<script src="js/script.js" rel="text/javascript"></script>
+		<script src="https://use.fontawesome.com/228d6afd69.js"></script>
 		<title>Michael Prinz</title>
 
 
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
+			<nav class="nav navbar-fixed">
+				<div class="navbar-header">
 
-			<!--div class ="container">
-				<div class ="row">
-					<div class ="col-md-12" style="background: transparent" height="131px"></div-->
+				</div>
 
-
-			<script>
-
-
-			</script>
+			</nav>
+			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/new-mexico-flag-small.png">
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
-						<h1 class="animated slideInLeft">MICHAEL N. PRINZ</h1>
+						<h1>MICHAEL N. PRINZ</h1>
 						<h2 class="text-center">Web Developer | Santa Fe</h2>
 					</div>
-				</div>
-			<nav class="navbar nav-center">
-				<ul class="nav nav-pills nav-pills-lg">
-					<li role="presentation"><a href="#">Home</a></li>
-					<li role="presentation"><a href="#">Profile</a></li>
-					<li role="presentation"><a href="#">Messages</a></li>
-				</ul
-
-			</nav>
-
-
-
-
-				<div class ="container">
-									<div class ="row">
-										<div class ="col-md-2"></div>
-										<div class ="col-md-8">
-											<div class = "content-box">
-												<h2>About Me:</h2>
+				</div> </div>
+							<div class="container">
+									<div class="row">
+										<div class ="col-md-12">
+											<div class="content-box animated slideInLeft"">
+												<h2>About:</h2>
 								<p>I'm Michael Prinz, full stack web developer. After a successful career as a lawyer, I took the plunge into web development.
 								I attended the Deep Dive Coding Boot Camp at the CNM Stemulus Center and was immersed in the languages that drive the internet. When I'm not coding I can be found playing guitar, taking photos, or rock hunting in the nearby mountains.</p>
 												</div>
+										</div>
 											</div>
 										</div>
+		<div class="parallax-window" data-parallax="scroll" data-image-src="/images/canyon.jpg">
+
 										<div class="row">
 						<div class = "col-md-6">
 							<div class ="content-box">
@@ -125,6 +114,7 @@
 							</div>
 						</div>
 					</div>
+			</div>
 
 					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
 						<div class="form-group">

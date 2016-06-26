@@ -19,12 +19,18 @@ footer {
 
 /*corrects IE min-height bug*/
 
-body { width: 100%;
-	background: url(../images/canyon.jpg) no-repeat center center fixed;
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #fff;
+	/* width: 100%;
+	background: url(../images/canyon.jpg) no-repeat center center fixed;//
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size: cover;*/
 	}
 
 .sfooter {
@@ -36,7 +42,6 @@ body { width: 100%;
 .sfooter-content {
 	flex: 1 0 auto;
 }
-
 
 .jumbotron {
 	background: transparent;
@@ -55,19 +60,20 @@ h2 {
 }
 
 h3 {
-	color: darkblue;
+	color: blue;
 }
 
 p {
 	color: white;
 	font-size: 125%;
 }
-div {
-	/*display: inline-block;
-}*/
-.nav {
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+nav {
 
-	display: inline-blockblock;
+	display: inline-block;
 	text-align: center;
 	width:750px;
 	margin:0 auto;
@@ -95,10 +101,10 @@ div {
 
 
 .content-box {
-	border-radius: 6px;
+
 	padding: 10px 15px 15px;
 	margin-bottom: 20px;
-	background-color: darkslateblue;
+	background-color: #454343;
 }
 
 form {
