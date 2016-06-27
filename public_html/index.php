@@ -38,17 +38,14 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<nav class="navbar navbar-default navbar-fixed-top">
-				<div class="nav-container">
-					<div class="topheader">
-						<div class="navbar-header">
-
-						</div>
+			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+				<div class="container">
+					<div id="menu">
+						<p style="color: red">
+							Hello World?
+						</p>
 					</div>
-
-
 				</div>
-
 			</nav>
 			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/canyon.jpg">
 				<div class = "jumbotron">
@@ -166,8 +163,8 @@
 						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>I hope to someday be as skilled as this web developer from Vancouver.</li>
 						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space</a></li>
 						<li><a href="https://meowwolf.com/">Meow Wolf</a><br>An amazing immersive experience in Santa Fe. You have to experience it to truly understand.<a></li>
-						<li><a href="http://www.alquimiawrg.com/#/home">Nice effects on this site.</a><br></li>
-						<li><a href="http://fetedelabiere.merci-michel.com/">This site is very engaging.</a><br></li>
+						<li><a href="http://www.alquimiawrg.com/#/home">Home</a><br>Nice effects on this site.</li>
+						<li><a href="http://fetedelabiere.merci-michel.com/">LeClerc</a><br>Very engaging site.</li>
 					</ul>
 				</div>
 				</div>
