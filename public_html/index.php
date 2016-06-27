@@ -39,10 +39,10 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<nav class="navbar navbar-default navbar-fixed-top">
-				<div class="container">
+				<div class="nav-container">
 					<div class="topheader">
 						<div class="navbar-header">
-							
+
 						</div>
 					</div>
 
@@ -160,13 +160,14 @@
 			<div class="row">
 				<div class="col-md-12">
 				<div class = "content-box">
-					<h2>Links to interesting/inspiring sites:</h2>
+					<h2>Links:</h2>
 					<ul>
-						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>I love exploring this site. This is where I found the background image you see on this page.</li>
+						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>The universe is cool!</li>
 						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>I hope to someday be as skilled as this web developer from Vancouver.</li>
-						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space, I can't wait to join and start making!</a></li>
+						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space</a></li>
 						<li><a href="https://meowwolf.com/">Meow Wolf</a><br>An amazing immersive experience in Santa Fe. You have to experience it to truly understand.<a></li>
-						<li><a href="http://josephpayton.com/about/">Joseph Payton</a><br>Another site by an amazing web developer.</li>
+						<li><a href="http://www.alquimiawrg.com/#/home">Nice effects on this site.</a><br></li>
+						<li><a href="http://fetedelabiere.merci-michel.com/">This site is very engaging.</a><br></li>
 					</ul>
 				</div>
 				</div>
