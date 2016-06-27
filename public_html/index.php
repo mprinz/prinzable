@@ -38,8 +38,8 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-				<div class="container">
+			<!--nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+				<div class="container"-->
 					<div id="menu">
 						<p style="color: #d3d3d3">
 
@@ -51,23 +51,35 @@
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
-						<h1>MICHAEL N. PRINZ</h1>
+						<h1 class="animated slideInLeft">MICHAEL N. PRINZ</h1>
 						<h2 class="text-center">Web Developer | Santa Fe</h2>
 					</div>
 				</div> </div>
 							<div class="container">
 									<div class="row">
-										<div class ="col-md-12">
-											<div class="content-box animated slideInLeft"">
-												<h2>Welcome!</h2>
+										<div class ="col-md-4">
+											<div class="content-box">
+												<i class="fa fa-cog fa-4x" aria-hidden="true"></i>
 								<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
 												</div>
 										</div>
+										<div class ="col-md-4">
+											<div class="content-box">
+												<h2>Welcome!</h2>
+												<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
 											</div>
 										</div>
-		<div class="parallax-window" data-parallax="scroll" data-image-src="/images/hubble_friday.jpg"></div>
+										<div class ="col-md-4">
+											<div class="content-box">
+												<h2>Welcome!</h2>
+												<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
+											</div>
+										</div>
+											</div>
+										</div>
+		<div class="parallax-window" data-parallax="scroll" data-image-src="/images/galaxy.jpg"></div>
 
-										<div class="row">
+										<!--div class="row">
 						<div class = "col-md-6">
 							<div class ="content-box">
 								<h2>My Skills:</h2>
@@ -115,7 +127,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div-->
 
 
 					<form class="form-horizontal well" method="post" action="php/mailer.php" id="myform">
