@@ -59,19 +59,19 @@
 									<div class="row">
 										<div class ="col-md-4">
 											<div class="content-box">
-												<i class="fa fa-cog fa-4x" aria-hidden="true"></i>
-								<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
+												<i class="fa fa-rocket fa-4x" aria-hidden="true"></i>
+												<h3>Design</h3> <h4>your </h4> <p>future</p>
 												</div>
 										</div>
 										<div class ="col-md-4">
 											<div class="content-box">
-												<h2>Welcome!</h2>
+												<i class="fa fa-cog fa-4x" aria-hidden="true"></i>
 												<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
-											</div>
+												</div>
 										</div>
 										<div class ="col-md-4">
 											<div class="content-box">
-												<h2>Welcome!</h2>
+												<i class="fa fa-check fa-4x" aria-hidden="true"></i>
 												<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
 											</div>
 										</div>
