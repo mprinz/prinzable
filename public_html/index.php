@@ -41,8 +41,8 @@
 			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 				<div class="container">
 					<div id="menu">
-						<p style="color: red">
-							Hello World?
+						<p style="color: #d3d3d3">
+
 						</p>
 					</div>
 				</div>
@@ -160,11 +160,11 @@
 					<h2>Links:</h2>
 					<ul>
 						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>The universe is cool!</li>
-						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>I hope to someday be as skilled as this web developer from Vancouver.</li>
+						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>Vancouver, Canada web developer</li>
 						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space</a></li>
 						<li><a href="https://meowwolf.com/">Meow Wolf</a><br>An amazing immersive experience in Santa Fe. You have to experience it to truly understand.<a></li>
-						<li><a href="http://www.alquimiawrg.com/#/home">Home</a><br>Nice effects on this site.</li>
-						<li><a href="http://fetedelabiere.merci-michel.com/">LeClerc</a><br>Very engaging site.</li>
+						<li><a href="http://www.alquimiawrg.com/#/home">Alquimia WRG</a><br>Nice effects on this site</li>
+						<li><a href="http://fetedelabiere.merci-michel.com/">LeClerc</a><br>Very engaging site in French</li>
 					</ul>
 				</div>
 				</div>
