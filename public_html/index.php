@@ -60,19 +60,20 @@
 										<div class ="col-md-4">
 											<div class="content-box">
 												<i class="fa fa-rocket fa-4x" aria-hidden="true"></i>
-												<h3>Design</h3> <h4>your </h4> <h1>future!</h1>
+												<h3>Design <h4>your <h1>future!</h1> </h4></h3>
 												</div>
 										</div>
 										<div class ="col-md-4">
 											<div class="content-box">
 												<i class="fa fa-cog fa-4x" aria-hidden="true"></i>
 												<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
+												<button class="button button-lg" <a href="#myform">Contact Me!</a></button>
 												</div>
 										</div>
 										<div class ="col-md-4">
 											<div class="content-box">
 												<i class="fa fa-check fa-4x" aria-hidden="true"></i>
-												<p>Allow me to build a great web site for your business. <a href="contact"> contact me</a></p>
+												<p>Allow me to build a great web site for your business. <a href="#myform"> contact me</a></p>
 											</div>
 										</div>
 											</div>
