@@ -39,14 +39,14 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-				<div class="container"-->
+				<div class="container">
 					<div id="menu">
 						<p style="color: #d3d3d3">
 
 						</p>
 					</div>
 				</div>
-			</nav>
+			</nav-->
 			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/hubble_friday.jpg">
 				<div class = "jumbotron">
 					<div class = "bg"></div>
