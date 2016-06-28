@@ -60,7 +60,7 @@
 										<div class ="col-md-4">
 											<div class="content-box">
 												<i class="fa fa-rocket fa-4x" aria-hidden="true"></i>
-												<h3>Design</h3> <h4>your </h4> <p>future</p>
+												<h3>Design</h3> <h4>your </h4> <h1>future!</h1>
 												</div>
 										</div>
 										<div class ="col-md-4">
@@ -72,7 +72,7 @@
 										<div class ="col-md-4">
 											<div class="content-box">
 												<i class="fa fa-check fa-4x" aria-hidden="true"></i>
-												<p>I'm Michael Prinz, full stack web developer. I build websites like this.</p>
+												<p>Allow me to build a great web site for your business. <a href="contact"> contact me</a></p>
 											</div>
 										</div>
 											</div>
@@ -169,7 +169,7 @@
 			<div class="row">
 				<div class="col-md-12">
 				<div class = "content-box">
-					<h2 style="text-align: left">Links:</h2>
+					<h2 style="text-align: left">Fun Links!</h2>
 					<ul style="text-align: left">
 						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>The universe is cool!</li>
 						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>Vancouver, Canada web developer</li>
