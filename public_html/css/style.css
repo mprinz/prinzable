@@ -13,7 +13,6 @@
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
-	color: #333;
 	background-color: #ffffff;
 	margin: 0;
 }
@@ -31,9 +30,9 @@ body {
 
 .jumbotron {
 	background: transparent;
-	color: #000000;
 	font-family: Oswald;
 	height: 400px;
+	color: yellow;
 }
 
 h1 {
