@@ -3,15 +3,6 @@
 
 
 
-footer {
-	background-color: #2e2e2e;
-	color: #ffffff;
-	font-style: italic;
-	margin-top: 30px;
-	padding: 60px 0;
-}
-
-
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
@@ -100,5 +91,11 @@ form {
 img{
 	align-items: center;
 }
-
+footer {
+	background-color: #2e2e2e;
+	color: #ffffff;
+	font-style: italic;
+	margin-top: 30px;
+	padding: 60px 0;
+}
 

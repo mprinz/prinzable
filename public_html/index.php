@@ -169,8 +169,8 @@
 			<div class="row">
 				<div class="col-md-12">
 				<div class = "content-box">
-					<h2>Links:</h2>
-					<ul>
+					<h2 style="text-align: left">Links:</h2>
+					<ul style="text-align: left">
 						<li><a href="http://www.jpl.nasa.gov/">Cal Tech, Jet Propulsion Laboratory</a><br>The universe is cool!</li>
 						<li><a href="http://joyceleung.ca">Joyce Leung</a><br>Vancouver, Canada web developer</li>
 						<li><a href="https://makesantafe.org/">Make Santa Fe</a><br>The newly opened Santa Fe maker space</a></li>
