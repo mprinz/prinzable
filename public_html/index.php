@@ -47,7 +47,7 @@
 					</div>
 				</div>
 			</nav-->
-			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/occidental.svg">
+			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/ocean.jpg">
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
@@ -78,7 +78,7 @@
 										</div>
 											</div>
 										</div>
-		<div class="parallax-window" data-parallax="scroll" data-image-src="/images/galaxy.jpg"></div>
+		<div class="parallax-window" data-parallax="scroll" data-image-src="/images/occidental.svg"></div>
 
 										<!--div class="row">
 						<div class = "col-md-6">
