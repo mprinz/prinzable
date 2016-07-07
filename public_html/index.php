@@ -47,7 +47,7 @@
 					</div>
 				</div>
 			</nav-->
-			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/ocean.jpg">
+			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/canyon.jpg">
 				<div class = "jumbotron">
 					<div class = "bg"></div>
 					<div class = "container">
