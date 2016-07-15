@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--html lang="en">
 	<head>
 
 		<meta http-equiv= "Content-Type" content="text/html; charset=UTF-8">
@@ -36,23 +36,14 @@
 
 
 	</head>
-	<body class="sfooter">
+	<!--body-- class="sfooter">
 		<div class="sfooter-content">
-			<!--nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-				<div class="container">
-					<div id="menu">
-						<p style="color: #d3d3d3">
-
-						</p>
-					</div>
-				</div>
-			</nav-->
-			<div class="parallax-window" data-parallax="scroll" data-image-src="/images/canyon.jpg">
-				<div class = "jumbotron">
+				<!--div class = "jumbotron">
 					<div class = "bg"></div>
-					<div class = "container">
-						<h1 class="animated slideInLeft">MICHAEL N. PRINZ</h1>
-						<h2 class="text-center">Web Developer | Santa Fe</h2>
+					<div class = "container"-->
+<img src="images/canyon.jpg" alt="canyon">
+						<h1 class="animated slideInLeft text-center"> MICHAEL N. PRINZ</h1>
+						<h2 class="animated slideInRight text-center">Web Developer | Santa Fe, New Mexico</h2>
 					</div>
 				</div> </div>
 							<div class="container">
@@ -200,5 +191,5 @@
 				</div>
 		</footer>
 		</div>
-	</body>
+	</body-->
 </html>

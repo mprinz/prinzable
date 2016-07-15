@@ -17,17 +17,6 @@ body {
 	margin: 0;
 }
 
-
-.sfooter {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-}
-
-.sfooter-content {
-	flex: 1 0 auto;
-}
-
 .jumbotron {
 	background: transparent;
 	font-family: Oswald;
@@ -89,9 +78,7 @@ form {
 
 }
 
-img{
-	align-items: center;
-}
+
 footer {
 	background-color: #2e2e2e;
 	color: #ffffff;
