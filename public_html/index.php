@@ -36,11 +36,11 @@
 
 
 	</head>
-	<!--body-- class="sfooter">
+	<body-- class="sfooter">
 		<div class="sfooter-content">
-				<!--div class = "jumbotron">
+				<div class = "jumbotron">
 					<div class = "bg"></div>
-					<div class = "container"-->
+					<div class = "container>
 <img src="images/canyon.jpg" alt="canyon">
 						<h1 class="animated slideInLeft text-center"> MICHAEL N. PRINZ</h1>
 						<h2 class="animated slideInRight text-center">Web Developer | Santa Fe, New Mexico</h2>
